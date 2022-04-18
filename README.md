@@ -2,9 +2,9 @@
   <img src="https://user-images.githubusercontent.com/29403923/163836842-7c57179b-19be-467c-869b-c3cc81c2a18a.png" alt="Oc_projet_14" />
 </div>
 
-# Projet Open Class Rooms #13 - ARGENTBANK
+# Projet Open Class Rooms #14 - ARGENTBANK
 
-This is project 14 of the Open Class Rooms Front-End course. It's a RH app form add new employees.
+This is project 14 of the Open Class Rooms Front-End course. It's a RH app for add new employees.
 
 ## Technologies
 
