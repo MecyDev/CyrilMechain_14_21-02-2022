@@ -27,9 +27,13 @@ export const FormProvider = ({ children }) => {
     });
   };
 
+  const EmptyForm = () => {
+    setForm({ ...initialValues });
+  };
+
   return (
     <form id="form">
-      <FormContext.Provider value={{ form, addEntry }}>
+      <FormContext.Provider value={{ form, addEntry, EmptyForm }}>
         {children}
       </FormContext.Provider>
     </form>

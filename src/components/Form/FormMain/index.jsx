@@ -23,7 +23,7 @@ const ModalHeading = styled.h1`
 
 function Form({ children }) {
   const { addEmployee } = useContext(EmployeeContext);
-  const { form } = useContext(FormContext);
+  const { form, EmptyForm } = useContext(FormContext);
   const { isOpen, toggle } = useModal();
 
   const content = <ModalHeading id="heading">Employee Created!</ModalHeading>;
@@ -43,6 +43,7 @@ function Form({ children }) {
       toggle();
       addEmployee(form);
       document.getElementById("form").reset();
+      EmptyForm();
     }
   }
 
