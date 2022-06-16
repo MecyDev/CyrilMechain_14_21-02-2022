@@ -4,7 +4,7 @@
 
 # Projet Open Class Rooms #14 - ARGENTBANK
 
-This is project 14 of the Open Class Rooms Front-End course. It's a RH app for add new employees.
+This is project 14 of the Open Class Rooms Front-End course. The goal of this project is to refactor an [old JQuery site](https://github.com/OpenClassrooms-Student-Center/P12_Front-end) into a modern React app.
 
 ## Technologies
 
