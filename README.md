@@ -18,6 +18,10 @@ This project is developed with:
 - [Datatables-plugin-react](https://www.npmjs.com/package/datatables-plugin-react/v/1.8.1)
 - [React-simply-modal](https://www.npmjs.com/package/react-simply-modal)
 
+## Demo
+
+- [HRnet](https://hrnet.mecydev.com/)
+
 ## Requirements
 
 - [Node.js](https://nodejs.org/en/)
